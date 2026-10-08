@@ -1,0 +1,30 @@
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# NeoForge run directories
+run/
+runs/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+# Claude Code — personal settings
+.claude/settings.local.json

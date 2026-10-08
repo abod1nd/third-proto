@@ -1,0 +1,14 @@
+{
+  "itemGroup.third_proto": "Example Mod Tab",
+  "block.third_proto.example_block": "Example Block",
+  "item.third_proto.example_item": "Example Item",
+
+  "third_proto.configuration.title": "Third Prototypes Configs",
+  "third_proto.configuration.section.third_proto.common.toml": "Third Prototypes Configs",
+  "third_proto.configuration.section.third_proto.common.toml.title": "Third Prototypes Configs",
+  "third_proto.configuration.items": "Item List",
+  "third_proto.configuration.logDirtBlock": "Log Dirt Block",
+  "third_proto.configuration.magicNumberIntroduction": "Magic Number Text",
+  "third_proto.configuration.magicNumber": "Magic Number",
+  "entity.third_proto.echo_test": "Echo Test"
+}
